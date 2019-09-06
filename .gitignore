@@ -1,0 +1,5 @@
+/.idea
+*.exe
+/vendor
+*.lst
+/example/**/*.o

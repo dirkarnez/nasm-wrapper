@@ -1,0 +1,3 @@
+NasmPath = "D:\\Softwares\\NASM toolchain\\NASM\\nasm.exe"
+Gcc32Path = "D:\\Softwares\\NASM toolchain\\MinGW\\bin\\gcc.exe"
+Gcc64Path = "D:\\Softwares\\NASM toolchain\\MinGW64\\bin\\gcc.exe"
