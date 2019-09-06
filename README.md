@@ -1,6 +1,6 @@
 nasm-wrapper
 ============
-Current only on Windows
+Currently only working on Windows
 
 ### How to install
 - make sure you have `MinGW` and / or `MinGW64` and `nasm` compiler beforehand
