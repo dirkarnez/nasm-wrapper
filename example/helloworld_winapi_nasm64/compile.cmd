@@ -1,2 +1,2 @@
-nasm-wrapper --mode=win64 --source=NASMHellox64.asm
+nasm-wrapper --mode=win64 --source=main.asm
 pause
